@@ -5,7 +5,7 @@ var http = require("http");
 
 // local variables:
 var username = "You";
-var port = 9600;
+var port = 5000;
 
 
 // create server, and have listen on port 9600:
